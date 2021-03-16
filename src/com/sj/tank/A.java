@@ -2,7 +2,7 @@ package com.sj.tank;
 
 import java.awt.Frame;
 import java.awt.Graphics;
-
+//asd
 public class A  extends Frame {
 	int x=300;
 	int y=300;
